@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.springapp.api.service","l":"ServiceConversionLogic"}];updateSearchResults();
